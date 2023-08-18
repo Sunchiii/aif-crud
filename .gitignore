@@ -1,0 +1,5 @@
+# not push .env file to github
+.env
+
+# not push makefile database migration to github
+.Makefile
